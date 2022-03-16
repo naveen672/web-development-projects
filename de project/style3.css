@@ -1,0 +1,12 @@
+.avatar {
+    /* Rounded border */
+    border-radius: 50%;
+    height: 64px;
+    width: 64px;
+}
+
+.avatar__image {
+    /* Rounded border */
+    border-radius: 50%;
+
+}
